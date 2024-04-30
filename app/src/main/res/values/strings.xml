@@ -1,5 +1,14 @@
 <resources>
     <string name="app_name">FristApp</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="WelcomeText">Welcome to SuperQuiz</string>
+    <string name="NameQuestion">What\'s your name?</string>
+    <string name="EnterName">Please enter your name</string>
+    <string name="PlayButton">Let\'s play</string>
+    <string name="Questions">Questions ?</string>
+    <string name="AnswerA">Answer A</string>
+    <string name="AnswerB">Answer B</string>
+    <string name="AnswerC">Answer C</string>
+    <string name="AnswerD">Answer D</string>
+    <string name="NextButton">Next</string>
 </resources>
